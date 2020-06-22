@@ -1,2 +1,3 @@
 # Swift-Projects
-Swift Practice Projects
+In this repository I am going to store swift projects to practice. 
+
